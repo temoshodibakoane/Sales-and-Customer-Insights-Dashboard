@@ -37,4 +37,4 @@ Links
 - Portfolio Page: [https://datascienceportfol.io/temoshodibakoane0909](https://datascienceportfol.io/temoshodibakoane0909)
 
  Preview
-
+https://github.com/temoshodibakoane/Sales-and-Customer-Insights-Dashboard/blob/main/Screenshot%202025-11-06%20125334.png?raw=true
